@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"node-sass sass/main.scss css/style.css" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmadhureddy/Natours.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmadhureddy/Natours/issues"
+  },
+  "homepage": "https://github.com/pmadhureddy/Natours#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
